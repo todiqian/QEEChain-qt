@@ -1,2 +1,2 @@
 # QEEChain-qt
-Download QEE wallet
+You can download QEE wallet from here!
